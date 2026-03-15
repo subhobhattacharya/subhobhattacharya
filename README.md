@@ -17,8 +17,8 @@ I am a technical Product Manager with over 10 years of experience building devel
 - **Domain Expertise:** Fintech, Digital Banking, SaaS, Aviation-Tech, Regulatory Environments (RBI/FCA).
 
 ### 📊 My GitHub Impact
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[subhobhattacharya]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[subhobhattacharya]&layout=compact&theme=radical)
 
 ---
 
